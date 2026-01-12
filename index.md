@@ -5,7 +5,7 @@ Doctoral Researcher in Paediatric Surgery and Urology
 ## About
 Panagiotis Nikolinakos is a Urology Registrar at West Middlesex University Hospital, 
 Chelsea and Westminster Hospital NHS Foundation Trust and a doctoral researcher at the Department of Paediatric Surgery, 
-National and Kapodistrian University of Athens, Greece
+National and Kapodistrian University of Athens, Greece.
 His clinical and academic interests include paediatric reconstructive urology, minimally invasive and robotic surgery,
 endourology and medical education
 
