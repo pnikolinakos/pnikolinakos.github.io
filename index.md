@@ -31,3 +31,21 @@ For a complete and up-to-date list of publications, please see:
 - West Middlesex University Hospital - Resident Doctors Urology Teaching
 - Imperial College London - Urology Teaching
 - Imperial College London - Surgical Teaching
+
+## Oral Presentations
+1) Applications and Outcomes of Indocyanine Green-Guided Near-Infrared Fluorescence in Paediatric
+Urological Surgery: A Systematic Review, European Association of Urology 26, March 2026
+2) Comparison of Outcomes of Open, Laparoscopic and Robot-Assisted Laparoscopic Pyeloplasty in
+Children with PUJO: A Systematic Review and Meta-Analysis, 15th Annual ESPES Congress 2025,
+October 2025
+3) Supernumerary Testicles and Other Weird and Wonderful Tales of Urology, CW Grand Round,
+February 2023
+4) The contribution of Peter Lord’s procedure in treating haemorrhoids in children, 59th National
+Paediatric Conference, Greece, October 2021
+5) Acquired undescended testicles. The importance of a correct and quick diagnosis, 58th National
+Paediatric Conference, Greece, September 2020
+6) Increased incidence of malignant tumours in children in the last 5 years, 58th National Paediatric
+Conference, Greece, September 2020
+7) Prepuce preserving operations for phimosis in teenagers, 58th National Paediatric Conference,
+Greece, September 2020
+8) Lipomatous tumours in children, 58th National Paediatric Conference, Greece, September 2020
