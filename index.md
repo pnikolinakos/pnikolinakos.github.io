@@ -1,6 +1,4 @@
-# Dr Panagiotis (Panos) Nikolinakos, MD, MSc
-Registrar in Urology  
-Doctoral Researcher in Paediatric Surgery and Urology  
+ 
 
 ## About
 Panagiotis Nikolinakos is a Urology Registrar at West Middlesex University Hospital, 
