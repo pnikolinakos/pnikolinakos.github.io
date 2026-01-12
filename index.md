@@ -83,26 +83,22 @@ semen parameters, World Meeting on Sexual Medicine (ISSM, ESSM), March 2018
 - Discover Oncology
 
 ## Clinical Audits
-1) Safety of Flexible Cystoscopy without urine dipstick, January 2026
-2) Compliance of Flexible Cystoscopy surveillance for NMIBC with EAU Guidelines, January 2026
-3) Evaluating AEC Urology Referrals and Compliance with the Current Pathway, September 2025
-4) Assessing the intraoperative benefits of virtual reality use in local anaesthetic urology procedures,
-May 2025
-5) Evaluating ChatGPT’s Responses to Lower Urinary Tract Symptoms Patient Questions in Outpatient
-Clinic Compared to EAU Guidelines, May 2025
-6) Evaluating ChatGPT’s Responses to Andrology Patient Questions in Outpatient Clinic Compared to
-EAU Guidelines, April 2025
-7) BAUS Penile Fracture (SNAP) Audit, April 2025
-8) Audit of Emergency Stone Surgery, April 2025
-9) Comparison of Outcomes of Open, Laparoscopic and Robot-assisted Laparoscopic Pyeloplasty in
-Children with Uroteropelvic Junction Obstruction, March 2025
-10) Scrotal Explorations for Torsions, March 2025
-11) Transperineal LASER Ablation of Prostate for BPH, November 2024
-11) Histopathology in Benign Urological Procedures, October 2023
-12) TWOC Service Audit, October 2023
-13) Emergency Theatre Utilisation at West Middlesex University Hospital (Re-Audit), May 2023
-14) Emergency Theatre Utilisation at West Middlesex University Hospital, December 2022
-15) Testicular Torsion Study, NCEPOD, December 2022
+- Safety of Flexible Cystoscopy without urine dipstick, January 2026
+- Compliance of Flexible Cystoscopy surveillance for NMIBC with EAU Guidelines, January 2026
+- Evaluating AEC Urology Referrals and Compliance with the Current Pathway, September 2025
+- Assessing the intraoperative benefits of virtual reality use in local anaesthetic urology procedures,May 2025
+- Evaluating ChatGPT’s Responses to Lower Urinary Tract Symptoms Patient Questions in Outpatient Clinic Compared to EAU Guidelines, May 2025
+- Evaluating ChatGPT’s Responses to Andrology Patient Questions in Outpatient Clinic Compared to EAU Guidelines, April 2025
+- BAUS Penile Fracture (SNAP) Audit, April 2025
+- Audit of Emergency Stone Surgery, April 2025
+- Comparison of Outcomes of Open, Laparoscopic and Robot-assisted Laparoscopic Pyeloplasty in Children with Uroteropelvic Junction Obstruction, March 2025
+- Scrotal Explorations for Torsions, March 2025
+- Transperineal LASER Ablation of Prostate for BPH, November 2024
+- Histopathology in Benign Urological Procedures, October 2023
+- TWOC Service Audit, October 2023
+- Emergency Theatre Utilisation at West Middlesex University Hospital (Re-Audit), May 2023
+- Emergency Theatre Utilisation at West Middlesex University Hospital, December 2022
+- Testicular Torsion Study, NCEPOD, December 2022
 
 ## Affiliation
 - Member - British Association of Paediatric Surgeons
