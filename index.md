@@ -9,7 +9,7 @@ National and Kapodistrian University of Athens, Greece
 His clinical and academic interests include paediatric reconstructive urology, minimally invasive and robotic surgery,
 endourology and medical education
 
-[Publications](publications.md)
+## [Publications](publications.md)
 
 ## Links
 - ResearchGate: https://www.researchgate.net/profile/Panagiotis-Nikolinakos?ev=hdr_xprf
