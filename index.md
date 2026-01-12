@@ -14,7 +14,9 @@ endourology and medical education.
 - [LinkedIn](https://www.linkedin.com/in/panagiotis-nikolinakos-md-msc-8aa1b9a6/)
 - [ScholarGPS](https://scholargps.com/scholars/84099609814584/panagiotis-nikolinakos)
 
-## [Publications](publications.md)
+## Publications
+For a complete and up-to-date list of publications, please see:
+[Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Panagiotis+Nikolinakos&sort=date)
 
 ## Courses
 - Royal College of Surgeons England - Core Skills in Laparoscopic Surgery
