@@ -82,7 +82,9 @@ semen parameters, World Meeting on Sexual Medicine (ISSM, ESSM), March 2018
 - Translational Andrology and Urology
 - Discover Oncology
 
-## Clinical Audits
+## Clinical Governance
+
+### Clinical Audits
 - Safety of Flexible Cystoscopy without urine dipstick, January 2026
 - Compliance of Flexible Cystoscopy surveillance for NMIBC with EAU Guidelines, January 2026
 - Evaluating AEC Urology Referrals and Compliance with the Current Pathway, September 2025
@@ -99,6 +101,11 @@ semen parameters, World Meeting on Sexual Medicine (ISSM, ESSM), March 2018
 - Emergency Theatre Utilisation at West Middlesex University Hospital (Re-Audit), May 2023
 - Emergency Theatre Utilisation at West Middlesex University Hospital, December 2022
 - Testicular Torsion Study, NCEPOD, December 2022
+
+### Service Improvement (QIP)
+- Urology Emergency Pathways, April 2025
+- Improving Induction Materials for New Clinicians in the Urology Department, March 2024
+- Clinical Handover List on Cerner for Urology, July 2023
 
 ## Affiliation
 - Member - British Association of Paediatric Surgeons
