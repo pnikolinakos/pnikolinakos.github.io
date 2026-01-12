@@ -15,3 +15,10 @@ endourology and medical education.
 - [ScholarGPS](https://scholargps.com/scholars/84099609814584/panagiotis-nikolinakos)
 
 ## [Publications](publications.md)
+
+## Courses
+- Royal College of Surgeons England - Core Skills in Laparoscopic Surgery
+- Evelina London Children's Hospital - Paediatric Urodynamics Course
+- Teleflex - UroLIFT Training
+- Health Education England - LEEP Leadership Programme
+- Oxford Medical - Teach the Teacher
