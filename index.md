@@ -31,6 +31,8 @@ For a complete and up-to-date list of publications, please see:
 - West Middlesex University Hospital - Resident Doctors Urology Teaching
 - Imperial College London - Urology Teaching
 - Imperial College London - Surgical Teaching
+- Impeiral Collegel London - Urology Placement Supervisor
+- West Middlesex University Hospital  - Specialty Taster Supervisor
 
 ## Oral Presentations
 1) Applications and Outcomes of Indocyanine Green-Guided Near-Infrared Fluorescence in Paediatric
@@ -49,3 +51,65 @@ Conference, Greece, September 2020
 7) Prepuce preserving operations for phimosis in teenagers, 58th National Paediatric Conference,
 Greece, September 2020
 8) Lipomatous tumours in children, 58th National Paediatric Conference, Greece, September 2020
+
+## Poster Presentations
+1) "Wunderlich Syndrome Triggered by Deadlifting: A Rare Case Report of Spontaneous Renal
+Haemorrhage, ASiT, March 2026
+2) Evaluating GPT4-0's Responses to Andrology Patient Questions in Outpatient Clinic Compared to
+European Association of Urology Guidelines, 27th World Meeting on Sexual Medicine, February 2026
+3) Emergency Laparoscopic Bowel Resection with Intracorporeal Anastomosis: A Case Series,
+Emergency General Surgery Symposium, November 2025
+4) Evaluating Large Language Models in Interpreting Lower Urinary Tract Symptoms: a Comparison
+with European Association of Urology Guidelines, 45th Congress of the SIU, November 2025
+5) Transurethral Bipolar Enucleation of the Prostate gland (BipolEP): a step-wise introduction/learning
+approach, 26th Panhellenic Urological Congress, October 2024
+6) Learning points from Trial Without Catheter (TWOC) clinics: a predicting model detecting which
+patients will fail a safe removal, 26th Panhellenic Urological Congress, October 2024
+7) Clinical Handover List on Cerner for Urology, CW Trust’s RIQI, July 2023
+8) Sperm DNA integrity in patients with varicocele: relationship between DNA fragmentation and bulk
+semen parameters, World Meeting on Sexual Medicine (ISSM, ESSM), March 2018
+
+## Editorial Work
+
+### Journal Reviewer
+- Clinical Case Reports
+- Journal of Medical Case Reports
+- BMC Urology
+- BMC Nephrology
+- Frontiers
+- Journal of Robotic Surgery
+- Translational Andrology and Urology
+- Discover Oncology
+
+## Clinical Audits
+1) Safety of Flexible Cystoscopy without urine dipstick, January 2026
+2) Compliance of Flexible Cystoscopy surveillance for NMIBC with EAU Guidelines, January 2026
+3) Evaluating AEC Urology Referrals and Compliance with the Current Pathway, September 2025
+4) Assessing the intraoperative benefits of virtual reality use in local anaesthetic urology procedures,
+May 2025
+5) Evaluating ChatGPT’s Responses to Lower Urinary Tract Symptoms Patient Questions in Outpatient
+Clinic Compared to EAU Guidelines, May 2025
+6) Evaluating ChatGPT’s Responses to Andrology Patient Questions in Outpatient Clinic Compared to
+EAU Guidelines, April 2025
+7) BAUS Penile Fracture (SNAP) Audit, April 2025
+8) Audit of Emergency Stone Surgery, April 2025
+9) Comparison of Outcomes of Open, Laparoscopic and Robot-assisted Laparoscopic Pyeloplasty in
+Children with Uroteropelvic Junction Obstruction, March 2025
+10) Scrotal Explorations for Torsions, March 2025
+11) Transperineal LASER Ablation of Prostate for BPH, November 2024
+11) Histopathology in Benign Urological Procedures, October 2023
+12) TWOC Service Audit, October 2023
+13) Emergency Theatre Utilisation at West Middlesex University Hospital (Re-Audit), May 2023
+14) Emergency Theatre Utilisation at West Middlesex University Hospital, December 2022
+15) Testicular Torsion Study, NCEPOD, December 2022
+
+## Affiliation
+- Member - British Association of Paediatric Surgeons
+- Member - Greek Association of Paediatric Surgeons 
+- Member - European Society of Paediatric Endoscopic Surgeons
+- Associate Member - Academy of Medical Educators 
+- Member - ORCID 0000-0001-84277223
+- Affiliate - Royal College of Surgeons of England
+- Member - British Medical Association
+- Member - Medical Defence Union
+- Registered - General Medical Council 
