@@ -8,3 +8,4 @@ Panagiotis Nikolinakos is a Urology Registrar at West Middlesex University Hospi
 - ORCID: https://orcid.org/0000-0001-8427-7223
 - Google Scholar: https://scholar.google.com/citations?hl=en&user=Hz2ph8oAAAAJ
 - LinkedIn: https://www.linkedin.com/in/panagiotis-nikolinakos-md-msc-8aa1b9a6/
+- ScholarGPS: https://scholargps.com/scholars/84099609814584/panagiotis-nikolinakos
