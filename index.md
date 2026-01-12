@@ -20,12 +20,14 @@ For a complete and up-to-date list of publications, please see:
 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Panagiotis+Nikolinakos&sort=date)
 
 ## Courses
+
+### Completed Courses
 - Royal College of Surgeons England - Core Skills in Laparoscopic Surgery
 - Evelina London Children's Hospital - Paediatric Urodynamics Course
 - Teleflex - UroLIFT Training
 - Health Education England - LEEP Leadership Programme
 - Oxford Medical - Teach the Teacher
-## Designed & Led
+## Designed and led
 - West Middlesex University Hospital - Resident Doctors Urology Teaching
 - Imperial College London - Urology Teaching
 - Imperial College London - Surgical Teaching
