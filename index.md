@@ -19,6 +19,9 @@ For a complete and up-to-date list of publications, please see:
 
 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Panagiotis+Nikolinakos&sort=date)
 
+## Awards, Grants
+- CW+ (Chelsea & Westminster Hopsital Charity) - £2,060
+
 ## Education & Teaching
 
 ### Completed Courses
