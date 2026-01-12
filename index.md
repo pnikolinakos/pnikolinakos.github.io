@@ -19,7 +19,7 @@ For a complete and up-to-date list of publications, please see:
 
 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Panagiotis+Nikolinakos&sort=date)
 
-## Courses
+## Education & Teaching
 
 ### Completed Courses
 - Royal College of Surgeons England - Core Skills in Laparoscopic Surgery
