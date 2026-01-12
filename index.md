@@ -1,4 +1,4 @@
-# Panagiotis (Panos) Nikolinakos, MD, MSc
+# Dr Panagiotis (Panos) Nikolinakos, MD, MSc
 Registrar in Urology  
 Doctoral Researcher in Paediatric Surgery and Urology  
 
