@@ -71,7 +71,6 @@ patients will fail a safe removal, 26th Panhellenic Urological Congress, October
 semen parameters, World Meeting on Sexual Medicine (ISSM, ESSM), March 2018
 
 ## Editorial Work
-
 ### Journal Reviewer
 - Clinical Case Reports
 - Journal of Medical Case Reports
