@@ -39,39 +39,25 @@ For a complete and up-to-date list of publications, please see:
 - West Middlesex University Hospital  - Specialty Taster Supervisor
 
 ## Oral Presentations
-- Applications and Outcomes of Indocyanine Green-Guided Near-Infrared Fluorescence in Paediatric
-Urological Surgery: A Systematic Review, European Association of Urology 26, March 2026
-- Comparison of Outcomes of Open, Laparoscopic and Robot-Assisted Laparoscopic Pyeloplasty in
-Children with PUJO: A Systematic Review and Meta-Analysis, 15th Annual ESPES Congress 2025,
+- Applications and Outcomes of Indocyanine Green-Guided Near-Infrared Fluorescence in Paediatric Urological Surgery: A Systematic Review, European Association of Urology 26, March 2026
+- Comparison of Outcomes of Open, Laparoscopic and Robot-Assisted Laparoscopic Pyeloplasty in Children with PUJO: A Systematic Review and Meta-Analysis, 15th Annual ESPES Congress 2025,
 October 2025
--Supernumerary Testicles and Other Weird and Wonderful Tales of Urology, CW Grand Round,
-February 2023
-- The contribution of Peter Lord’s procedure in treating haemorrhoids in children, 59th National
-Paediatric Conference, Greece, October 2021
-- Acquired undescended testicles. The importance of a correct and quick diagnosis, 58th National
-Paediatric Conference, Greece, September 2020
-- Increased incidence of malignant tumours in children in the last 5 years, 58th National Paediatric
-Conference, Greece, September 2020
-- Prepuce preserving operations for phimosis in teenagers, 58th National Paediatric Conference,
-Greece, September 2020
+-Supernumerary Testicles and Other Weird and Wonderful Tales of Urology, CW Grand Round, February 2023
+- The contribution of Peter Lord’s procedure in treating haemorrhoids in children, 59th National Paediatric Conference, Greece, October 2021
+- Acquired undescended testicles. The importance of a correct and quick diagnosis, 58th National Paediatric Conference, Greece, September 2020
+- Increased incidence of malignant tumours in children in the last 5 years, 58th National Paediatric Conference, Greece, September 2020
+- Prepuce preserving operations for phimosis in teenagers, 58th National Paediatric Conference, Greece, September 2020
 - Lipomatous tumours in children, 58th National Paediatric Conference, Greece, September 2020
 
 ## Poster Presentations
-- "Wunderlich Syndrome Triggered by Deadlifting: A Rare Case Report of Spontaneous Renal
-Haemorrhage, ASiT, March 2026
-- Evaluating GPT4-0's Responses to Andrology Patient Questions in Outpatient Clinic Compared to
-European Association of Urology Guidelines, 27th World Meeting on Sexual Medicine, February 2026
-- Emergency Laparoscopic Bowel Resection with Intracorporeal Anastomosis: A Case Series,
-Emergency General Surgery Symposium, November 2025
-- Evaluating Large Language Models in Interpreting Lower Urinary Tract Symptoms: a Comparison
-with European Association of Urology Guidelines, 45th Congress of the SIU, November 2025
-- Transurethral Bipolar Enucleation of the Prostate gland (BipolEP): a step-wise introduction/learning
-approach, 26th Panhellenic Urological Congress, October 2024
-- Learning points from Trial Without Catheter (TWOC) clinics: a predicting model detecting which
-patients will fail a safe removal, 26th Panhellenic Urological Congress, October 2024
+- "Wunderlich Syndrome Triggered by Deadlifting: A Rare Case Report of Spontaneous Renal Haemorrhage, ASiT, March 2026
+- Evaluating GPT4-0's Responses to Andrology Patient Questions in Outpatient Clinic Compared to European Association of Urology Guidelines, 27th World Meeting on Sexual Medicine, February 2026
+- Emergency Laparoscopic Bowel Resection with Intracorporeal Anastomosis: A Case Series,Emergency General Surgery Symposium, November 2025
+- Evaluating Large Language Models in Interpreting Lower Urinary Tract Symptoms: a Comparison with European Association of Urology Guidelines, 45th Congress of the SIU, November 2025
+- Transurethral Bipolar Enucleation of the Prostate gland (BipolEP): a step-wise introduction/learning approach, 26th Panhellenic Urological Congress, October 2024
+- Learning points from Trial Without Catheter (TWOC) clinics: a predicting model detecting which patients will fail a safe removal, 26th Panhellenic Urological Congress, October 2024
 - Clinical Handover List on Cerner for Urology, CW Trust’s RIQI, July 2023
-- Sperm DNA integrity in patients with varicocele: relationship between DNA fragmentation and bulk
-semen parameters, World Meeting on Sexual Medicine (ISSM, ESSM), March 2018
+- Sperm DNA integrity in patients with varicocele: relationship between DNA fragmentation and bulk semen parameters, World Meeting on Sexual Medicine (ISSM, ESSM), March 2018
 
 ## Editorial Work
 ### Journal Reviewer
