@@ -10,11 +10,11 @@ His clinical and academic interests include paediatric reconstructive urology, m
 endourology and medical education
 
 ## Links
-- [ResearchGate]: https://www.researchgate.net/profile/Panagiotis-Nikolinakos?ev=hdr_xprf
-- [ORCID]: https://orcid.org/0000-0001-8427-7223
-- [Google Scholar]: https://scholar.google.com/citations?hl=en&user=Hz2ph8oAAAAJ
-- [LinkedIn]: https://www.linkedin.com/in/panagiotis-nikolinakos-md-msc-8aa1b9a6/
-- [ScholarGPS]: https://scholargps.com/scholars/84099609814584/panagiotis-nikolinakos
+- [ResearchGate](https://www.researchgate.net/profile/Panagiotis-Nikolinakos?ev=hdr_xprf)
+- [ORCID](https://orcid.org/0000-0001-8427-7223)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=Hz2ph8oAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/panagiotis-nikolinakos-md-msc-8aa1b9a6/)
+- [ScholarGPS](https://scholargps.com/scholars/84099609814584/panagiotis-nikolinakos)
 - CV (PDF): [Download](/Panos Nikolinakos CV.pdf)
 
 ## [Publications](publications.md)
