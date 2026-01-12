@@ -58,16 +58,16 @@ Greece, September 2020
 Haemorrhage, ASiT, March 2026
 - Evaluating GPT4-0's Responses to Andrology Patient Questions in Outpatient Clinic Compared to
 European Association of Urology Guidelines, 27th World Meeting on Sexual Medicine, February 2026
-3) Emergency Laparoscopic Bowel Resection with Intracorporeal Anastomosis: A Case Series,
+- Emergency Laparoscopic Bowel Resection with Intracorporeal Anastomosis: A Case Series,
 Emergency General Surgery Symposium, November 2025
-4) Evaluating Large Language Models in Interpreting Lower Urinary Tract Symptoms: a Comparison
+- Evaluating Large Language Models in Interpreting Lower Urinary Tract Symptoms: a Comparison
 with European Association of Urology Guidelines, 45th Congress of the SIU, November 2025
-5) Transurethral Bipolar Enucleation of the Prostate gland (BipolEP): a step-wise introduction/learning
+- Transurethral Bipolar Enucleation of the Prostate gland (BipolEP): a step-wise introduction/learning
 approach, 26th Panhellenic Urological Congress, October 2024
-6) Learning points from Trial Without Catheter (TWOC) clinics: a predicting model detecting which
+- Learning points from Trial Without Catheter (TWOC) clinics: a predicting model detecting which
 patients will fail a safe removal, 26th Panhellenic Urological Congress, October 2024
-7) Clinical Handover List on Cerner for Urology, CW Trust’s RIQI, July 2023
-8) Sperm DNA integrity in patients with varicocele: relationship between DNA fragmentation and bulk
+- Clinical Handover List on Cerner for Urology, CW Trust’s RIQI, July 2023
+- Sperm DNA integrity in patients with varicocele: relationship between DNA fragmentation and bulk
 semen parameters, World Meeting on Sexual Medicine (ISSM, ESSM), March 2018
 
 ## Editorial Work
