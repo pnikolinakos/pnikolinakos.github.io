@@ -15,6 +15,5 @@ endourology and medical education.
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=Hz2ph8oAAAAJ)
 - [LinkedIn](https://www.linkedin.com/in/panagiotis-nikolinakos-md-msc-8aa1b9a6/)
 - [ScholarGPS](https://scholargps.com/scholars/84099609814584/panagiotis-nikolinakos)
-- CV (PDF): [Download](/Panos Nikolinakos CV.pdf)
 
 ## [Publications](publications.md)
