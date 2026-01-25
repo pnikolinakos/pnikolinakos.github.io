@@ -61,6 +61,7 @@ October 2025
 
 ## Editorial Work
 ### Journal Reviewer
+- Journal of Pediatric Urology
 - World Journal of Urology 
 - Clinical Case Reports
 - Journal of Medical Case Reports
