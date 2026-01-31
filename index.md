@@ -67,6 +67,7 @@ October 2025
 - Journal of Medical Case Reports
 - BMC Urology
 - BMC Nephrology
+- BMC Preganncy and Childbirth 
 - Frontiers
 - Journal of Robotic Surgery
 - Translational Andrology and Urology
