@@ -102,7 +102,7 @@ October 2025
 - Member - British Association of Paediatric Surgeons
 - Member - Greek Association of Paediatric Surgeons 
 - Member - European Society of Paediatric Endoscopic Surgeons
-- Associate Member - Academy of Medical Educators 
+- Member - Academy of Medical Educators 
 - Member - ORCID 0000-0001-84277223
 - Affiliate - Royal College of Surgeons of England
 - Member - British Medical Association
