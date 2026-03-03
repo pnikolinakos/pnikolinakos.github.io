@@ -72,6 +72,7 @@ October 2025
 - Journal of Robotic Surgery
 - Translational Andrology and Urology
 - Discover Oncology
+- European Journal of Pediatrics
 
 ## Clinical Governance
 
