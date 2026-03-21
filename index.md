@@ -1,4 +1,4 @@
-## Dr Panagiotis (Panos) Nikolinakos, MD, MSc, MAcadMEd
+## Dr Panagiotis (Panos) Nikolinakos, MD, MSc, MAcadMEd, MRSPH
 
 ## About
 Panagiotis Nikolinakos is a Urology Registrar at West Middlesex University Hospital, 
